@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Docker
+Comment=List All Docker Containers
+Exec=/home/naveed/.local/bin/dockerui
+Icon=application-default-Icon
+Terminal=false
+Type=application
+StartupNotify=true
+Categories=GNOME;GTK;Utility;
